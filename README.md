@@ -10,10 +10,9 @@ A minimalist AI-powered text adventure where **you create the story** and Ai dri
 Setup Your Gemini API Key
 Go to https://makersuite.google.com/app/apikey
 
-Copy your key and paste it when you run the game !
 
 open CMD And Type "youandai"
-to start the game 
+Copy your key and paste it when you run the game !
 
 
 Gameplay Example :
