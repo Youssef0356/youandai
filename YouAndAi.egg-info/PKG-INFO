@@ -1,0 +1,43 @@
+Metadata-Version: 2.4
+Name: YouAndAi
+Version: 0.0.3
+Summary: A minimalist AI-powered text adventure game.
+Home-page: https://github.com/Youssef0356/youandai
+Author: Youssef0356
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: google-generativeai
+Dynamic: author
+Dynamic: classifier
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: license-file
+Dynamic: requires-dist
+Dynamic: summary
+
+# YouAndAi ðŸ§ ðŸŽ®
+
+A minimalist AI-powered text adventure where **you create the story** and Ai drives the world.
+
+## ðŸ“¦ Install
+
+```bash
+
+
+Setup Your Gemini API Key
+Go to https://makersuite.google.com/app/apikey
+
+Copy your key and paste it when you run the game !
+
+open CMD And Type "youandai"
+to start the game 
+
+
+Gameplay Example :
+
+AI: Dark cave. Torch flickers faintly.
+You: I swing the sword forward.
+AI: Torch falls. Shadows come closer.

@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+YouAndAi.egg-info/PKG-INFO
+YouAndAi.egg-info/SOURCES.txt
+YouAndAi.egg-info/dependency_links.txt
+YouAndAi.egg-info/entry_points.txt
+YouAndAi.egg-info/requires.txt
+YouAndAi.egg-info/top_level.txt
+youandai/__init__.py
+youandai/game.py
